@@ -1,0 +1,15 @@
+{
+  "name": "alfred-portfolio",
+  "version": "1.0.1",
+  "description": "Portfolio Project",
+  "scripts": {
+    "start-api": "cd api && npm run dev",
+    "start-client": "cd client && npm start",
+    "start": "concurrently \"npm run start-api\" \"npm run start-client\""
+  },
+  "keywords": [],
+  "author": "Alfred Mirzasalikhov",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

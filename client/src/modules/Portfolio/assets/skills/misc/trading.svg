@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="45.961 174.297 868.078 611.406" width="868.078" height="611.406" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+   
+    .fil0 {fill:#95C030;fill-rule:nonzero}
+    .fil3 {fill:#39AAE1;fill-rule:nonzero}
+    .fil1 {fill:#507335;fill-rule:nonzero}
+    .fil2 {fill:#258CBC;fill-rule:nonzero}
+   
+  </style>
+  </defs>
+  <g id="Слой_x0020_1" style="" transform="matrix(1.062827, 0, 0, 1, -2.887602, 0)">
+    <polygon class="fil0" points="292.093,576.033 391.488,673.795 511.064,527.546 388.824,600.565 "/>
+    <polygon class="fil1" points="292.56,505.881 45.961,785.703 292.093,576.033 388.824,600.565 "/>
+    <polygon class="fil1" points="914.039,297.137 811.145,340.461 839.289,361.368 624.445,593.093 871.756,385.641 897.192,406.049 "/>
+    <polygon class="fil1" points="511.463,450.571 388.824,600.565 511.064,527.546 624.445,593.093 "/>
+    <polygon class="fil0" points="511.064,527.546 623.703,669.635 871.756,385.641 624.445,593.093 "/>
+    <polygon class="fil2" points="624.445,557.555 655.703,523.841 655.703,174.297 558.421,474.271 "/>
+    <polygon class="fil3" points="558.421,474.271 655.703,174.297 558.421,174.297 "/>
+    <polygon class="fil3" points="431.36,513.004 528.64,260.945 431.36,260.945 "/>
+    <polygon class="fil2" points="511.463,415.033 528.64,436.702 528.64,260.945 431.36,513.004 "/>
+    <polygon class="fil2" points="388.824,565.027 401.579,549.428 401.579,365.645 304.298,481.889 "/>
+    <polygon class="fil3" points="304.298,481.889 401.579,365.645 304.298,365.645 "/>
+  </g>
+</svg>
